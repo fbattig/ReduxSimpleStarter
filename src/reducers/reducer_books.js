@@ -1,9 +1,8 @@
-export default function () {
-  [
+export default function() {
+ return [
     { title: 'Javascript: the good part' },
     { title: 'React and Redux' },
     { title: 'Asp.NET Code' },
-    { title: 'Angular5' },
+    { title: 'Angular 5' },
   ]
-
 }
